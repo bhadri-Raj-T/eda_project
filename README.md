@@ -3,7 +3,7 @@ COLAB_LINK = https://colab.research.google.com/drive/1k-x5W_UYPpF2pZWBJctfwiw8G0
 
 Click on the above link and make a copy in 'My Drive', then connect to the CPU kernel and start executing code.
 
-Note:- No need to upload any dataset. The datasets are retrived by from the github itself
+Note:- No need to upload any dataset. The datasets are retrieved from Github itself
 
 Abstract:
 
